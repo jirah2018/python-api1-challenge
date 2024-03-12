@@ -21,15 +21,25 @@
 8.Create a scatterplot for City Latitude vs. Wind Speed using matplotlib.pyplot.
 
 9.Create a function to do Linear Regression plots.
+
 10.Apply function to plot Max Temp vs. Latitude Linear Regression for northern and southern hemisphere
+
 11.Apply function to plot Humidity (%) vs. Latitude Linear Regression for northern and southern hemisphere.
+
 12.Apply function to plot Cloudiness (%) vs. Latitude Linear Regression for northern and southern hemisphere.
+
 13.Apply function to plot Wind Speed (mph) vs. Latitude Linear Regression for northern and southern hemisphere.
+
 ****Part 2 - VacationPy***
+
 1.Read in csv data from Part 1.
+
 2.Use gmaps to do a humidity heat map that displays the humidity for every city.
+
 3.Perform new dataframe fitting weather criteria personally chosen based on vacation weather preferences.
+
 4.Perform Google API to find the first hotel for each city located within 5000 meters of your coordinates.
+
 5.Plot the hotels on top of the humidity heatmap with each pin containing the Hotel Name, City, and Country.
 
 
