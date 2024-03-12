@@ -1,15 +1,25 @@
 # python-api1-challenge
 
 ****Part 1 - WeatherPy****
+
 1.Create random list of lat, long values using numpy.
+
 2.Get nearest city using citypy.
+
 3.Execute weather API call using imported API key.
+
 3.Replace arrays of JSON into pandas dataframe.
+
 4.Export city data into csv
+
 5.Create a scatterplot for City Latitude vs. Temperature using matplotlib.pyplot.
+
 6.Create a scatterplot for City Latitude vs. Humidity using matplotlib.pyplot.
+
 7.Crreate a scatterplot for City Latitude vs. Cloudiness using matplotlib.pyplot.
+
 8.Create a scatterplot for City Latitude vs. Wind Speed using matplotlib.pyplot.
+
 9.Create a function to do Linear Regression plots.
 10.Apply function to plot Max Temp vs. Latitude Linear Regression for northern and southern hemisphere
 11.Apply function to plot Humidity (%) vs. Latitude Linear Regression for northern and southern hemisphere.
