@@ -1,4 +1,4 @@
-# python-api1-challenge
+# Python-API-Challenge
 
 ****Part 1 - WeatherPy****
 
